@@ -1,4 +1,5 @@
 import Nav from '../components/nav'
+import ItemCard from '../components/itemcard'
 
 export default function IndexPage() {
   return (
